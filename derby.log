@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Mon Aug 28 15:51:52 ART 2023D001 : [0] The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585), [1] a816c00e-018a-3d7c-ecae-000007377950, [2] C:\Users\renzo\eclipse-workspace\punto3\derbyDb, [3] jdk.internal.loader.ClassLoaders$AppClassLoader@47fd17e3, [4] file:/C:/Users/renzo/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.6+10
+user.dir=C:\Users\renzo\eclipse-workspace\punto3
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+C005 : [0] 
